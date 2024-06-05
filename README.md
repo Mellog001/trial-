@@ -1,2 +1,2 @@
 # Web
- Project for a client
+ Project for a client using github
